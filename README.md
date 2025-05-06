@@ -1,12 +1,12 @@
-# WEATHER API FROM 2022-2025
-## Project overview
+# 💦WEATHER API FROM 2022-2025
+## Project overview 💻
 To visualize weather data over time, evaluating it's effect on different industries.
 To predict weather like temperature_2m , relative humidity_2m and precipitaion of New york city, USA using historical data from 2022-2025 from open weather API.
 This API extracts historic data for  hourly temperature_2m, relative humidity_2m and precipitation. 
-## Tools
+## Tools 🧰
 - [openmeteoAPI](https://open-meteo.com/)
 - Python
-## Procedure
+## 🧭Procedure
 - Setup the Open-Meteo API client with cache and retry on error
 - Make sure all required weather variables are listed here
 - The order of variables in hourly or daily is important to assign them correctly below
@@ -18,7 +18,7 @@ This API extracts historic data for  hourly temperature_2m, relative humidity_2m
 - Build models for predicting weather using linear regression
 - plot line plot comparing actual weather vs predicted weather conditions
 
-## conclusion
+## conclusion🤔
 ### According to correlation test
 - Temperature, humidity and precipitation are negatively correlated with time 
 - Temperature and humidity are negatively correlated to precipitation
