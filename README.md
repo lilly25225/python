@@ -6,7 +6,6 @@ This API extracts historic data for  hourly temperature_2m, relative humidity_2m
 ## Tools
 - [openmeteoAPI](https://open-meteo.com/)
 - Python
-- Tableau
 ## Procedure
 - Setup the Open-Meteo API client with cache and retry on error
 - Make sure all required weather variables are listed here
