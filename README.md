@@ -19,3 +19,11 @@ This API extracts historic data for  hourly temperature_2m, relative humidity_2m
 - plot line plot comparing actual weather vs predicted weather conditions
 
 ## conclusion
+### According to correlation test
+- Temperature, humidity and precipitation are negatively correlated with time 
+- Temperature and humidity are negatively correlated to precipitation
+- Temperature is positively correlated to humidity
+### prediction
+- Predicted temperature and humidity shows a slight drop to the actual temperature and humidity over time
+- The predicted precipitation goes below the actual precipitation with no significance difference over time 
+  
